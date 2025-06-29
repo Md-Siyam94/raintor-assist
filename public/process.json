@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Discovery",
+    "subtitle": "In this initial phase, we dive deep into understanding your business, goals, and audience. We conduct research, gather requirements, and identify the challenges and opportunities that will shape the direction of the project."
+  },
+  {
+    "id": 2,
+    "title": "Strategy",
+    "subtitle": "With clear insights from the discovery phase, we develop a strategic plan that outlines the project's structure, timeline, technology stack, and milestones. This roadmap ensures all stakeholders are aligned and sets the foundation for a successful build."
+  },
+  {
+    "id": 3,
+    "title": "Design",
+    "subtitle": "We transform ideas into visual experiences through wireframes, mockups, and prototypes. Every design decision is made to enhance usability, accessibility, and brand consistency, ensuring a user interface that looks great and functions smoothly."
+  },
+  {
+    "id": 4,
+    "title": "Build",
+    "subtitle": "Our developers bring the design to life with clean, efficient, and scalable code. We rigorously test across devices and platforms, fix bugs, optimize performance, and deploy your product with confidence—ready for real-world use."
+  }
+]

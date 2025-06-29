@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/YFnvX2C2/programing-1.png",
+    "title": "React",
+    "subtitle": "Frontend JavaScript library"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/xq2pdZgZ/programing.png",
+    "title": "Node.js",
+    "subtitle": "Backend runtime for JavaScript"
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+    "title": "Express.js",
+    "subtitle": "Minimal and flexible Node.js framework"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/Fqy0kDvg/database-management.png",
+    "title": "MongoDB",
+    "subtitle": "NoSQL database for scalable apps"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/5gkGQ3Nb/js.png",
+    "title": "JavaScript",
+    "subtitle": "Programming language for the web"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/jPxKwFJv/html.png",
+    "title": "HTML5",
+    "subtitle": "Markup language for web pages"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/BHyYyqnj/css-3.png",
+    "title": "CSS3",
+    "subtitle": "Styling language for web design"
+  },
+  {
+    "id": 8,
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    "title": "Git",
+    "subtitle": "Version control system"
+  }
+]
