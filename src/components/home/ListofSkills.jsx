@@ -13,7 +13,7 @@ const ListofSkills = () => {
     },[])
     return (
         <div className='bg-black text-white px-20 py-10  rounded-2xl'>
-            <div className='flex py-10 gap-1'>
+            <div className='flex py-10 '>
                 <div className='py-2 px-2 border rounded-full flex gap-1 items-center'><MdArrowDownward className='text-2xl' /></div>
                 <button className='py-2 px-4 border rounded-full '>Why Choose me</button>
             </div>
