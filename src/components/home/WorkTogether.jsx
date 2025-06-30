@@ -14,7 +14,7 @@ const WorkTogether = () => {
             <div className=" bg-base-200">
                 <div className="hero-content flex-col lg:flex-row">
                     <div className=" lg:text-left">
-                        <h1 className="text-3xl md:text-4xl lg:text-8xl font-semibold  ">Interested in <span className=' btn h-28 pb-5 text-7xl px-1 bg-black text-white rounded-xl'>work</span> together?</h1>
+                        <h1 className="text-3xl md:text-4xl lg:text-8xl font-semibold  ">Interested in <span className=' btn lg:h-28 text-3xl md:text-4xl lg:text-8xl font-semibold  pb-5 px-1 bg-black text-white rounded-xl'>work</span> together?</h1>
                         <p className="py-6">
                             We start every new client interaction with an in-depth discovery call wherewe get to know each other
                         </p>

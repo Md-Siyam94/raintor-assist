@@ -5,12 +5,12 @@ import { NavLink } from 'react-router-dom';
 
 const Hero = () => {
     return (
-        <div className="px-12 bg-base-200">
+        <div className="px-12 pb-20 bg-base-200">
             <div className=" ">
 
                 <div>
-                    <h1 className="text-3xl md:text-4xl lg:text-8xl font-semibold  ">Trusted <span className=' btn h-28 pb-5 text-8xl px-1 bg-black text-white rounded-xl'>Partner</span> for</h1>
-                    <h1 className="text-3xl md:text-4xl lg:text-8xl font-semibold mt-4 "> Your Website <span className=' btn h-28 pb-5 text-8xl px-1 bg-black text-white rounded-xl'>Develop.</span></h1>
+                    <h1 className="text-3xl md:text-4xl lg:text-8xl font-semibold  ">Trusted <span className=' btn lg:h-28 pb-5  text-4xl md:text-6xl lg:text-8xl font-semibold  px-1 bg-black text-white rounded-xl'>Partner</span> for</h1>
+                    <h1 className="text-3xl md:text-4xl lg:text-8xl font-semibold mt-4 "> Your Website <span className=' btn lg:h-28 pb-5  text-4xl md:text-6xl lg:text-8xl font-semibold  px-1 bg-black text-white rounded-xl'>Develop.</span></h1>
 
                     <div className='flex items-center gap-48 my-10'>
                         <div className='rotate-270 mt-20'>
