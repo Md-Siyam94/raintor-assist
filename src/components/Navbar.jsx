@@ -6,10 +6,10 @@ import { NavLink } from 'react-router-dom';
 const Navbar = () => {
 
     const links = <>
-        <li><NavLink><h2>Home</h2> </NavLink></li>
-        <li><NavLink><h2>About</h2> </NavLink></li>
-        <li><NavLink><h2>Portfolio</h2> </NavLink></li>
-        <li><NavLink><h2>Blog</h2> </NavLink></li>
+        <li><NavLink>Home</NavLink></li>
+        <li><NavLink>About </NavLink></li>
+        <li><NavLink to={"https://siyam-portfolio-1.netlify.app/"}>Portfolio </NavLink></li>
+        <li><NavLink>Blog </NavLink></li>
 
     </>
     return (
