@@ -8,9 +8,10 @@ const WorkTogether = () => {
     return (
         <div className='px-12'>
             <div className='flex   '>
-                <div className='py-2 px-2 border rounded-full flex gap-1 items-center'><MdArrowDownward className='text-2xl' /></div>
-                <button className='py-2 px-4 border rounded-full '>Contact</button>
+                <div className='py-2 px-2 border border-black rounded-full flex gap-1 items-center'><MdArrowDownward className='text-2xl' /></div>
+                <button className='py-2 px-4 border border-black rounded-full '>Contact</button>
             </div>
+            {/* Main content */}
             <div className=" bg-base-200">
                 <div className="hero-content flex-col lg:flex-row">
                     <div className=" lg:text-left">
@@ -18,8 +19,9 @@ const WorkTogether = () => {
                         <p className="py-6">
                             We start every new client interaction with an in-depth discovery call wherewe get to know each other
                         </p>
-                        <button className="py-3 pr-4 border rounded-full flex gap-3 items-center "><IoIosCall className='text-4xl p-1 border rounded-full' />Schedule a Call</button>
+                        <button className="py-3 pr-4 border border-black rounded-full flex gap-3 items-center "><IoIosCall className='text-4xl p-1 border border-black rounded-full' />Schedule a Call</button>
                     </div>
+                    {/* Form */}
                     <div className="card bg-black text-white w-full max-w-md shrink-0 shadow-2xl">
                         <div className="card-body">
                             <fieldset className="fieldset">

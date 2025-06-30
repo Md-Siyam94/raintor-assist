@@ -18,8 +18,8 @@ const ListofSkills = () => {
                 <button className='py-2 px-4 border rounded-full '>Why Choose me</button>
             </div>
             <div className='lg:flex justify-between pb-10'>
-                <div><h1 className='text-3xl md:text-4xl lg:text-6xl font-bold w-sm'>My Extensive List of Skills</h1></div>
-                <div className=' w-sm mt-5 lg:text-end'>
+                <div><h1 className='text-3xl md:text-4xl lg:text-6xl font-bold w-8/12'>My Extensive List of Skills</h1></div>
+                <div className=' w-1/4 mt-5 lg:text-end'>
                     <p>Building the worlds best marketing Your trusted partner for strategy, design, and dev.</p>
                     <hr className='opacity-50 mt-2'/>
 

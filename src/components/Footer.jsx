@@ -17,7 +17,7 @@ const Footer = () => {
                                 </div>
                             </div>
                             <div className="mx-auto">
-                                <h1 className="text-4xl md:text-5xl lg:text-6xl  ">
+                                <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold ">
                                     As you can
                                 </h1>
                             </div>
