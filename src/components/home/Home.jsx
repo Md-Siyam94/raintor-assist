@@ -5,6 +5,8 @@ import ListofSkills from './ListofSkills';
 import DevelopingSince from './DevelopingSince';
 import WorkProcess from './WorkProcess';
 import WorkTogether from './WorkTogether';
+import Footer from '../Footer';
+
 
 const Home = () => {
     return (
@@ -23,6 +25,9 @@ const Home = () => {
             </section>
             <section className='py-20 '>
                 <WorkTogether></WorkTogether>
+            </section>
+            <section className='px-4'>
+               <Footer></Footer>
             </section>
         </div>
     );
